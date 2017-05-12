@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="id_stickynavlayout_topview" type="id"/>
+    <item name="sliding_tabs" type="id"/>
+    <item name="viewpager" type="id"/>
+    <item name="mRecyclerView" type="id"/> 
+
+</resources>
